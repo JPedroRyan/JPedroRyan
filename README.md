@@ -1,4 +1,4 @@
-# Hello Pedro Ryan, Software Developer!
+# Hi, I'm Pedro Ryan Software Developer!
 
 #### I am passionate about technology, and I am always looking to improve my soft and hard skills.<br> If you are a developer, I hope my projects on this platform help you answer your questions about code and expand your knowledge. <br> If you are an evaluator, I hope my projects are to your liking.
 <br>
